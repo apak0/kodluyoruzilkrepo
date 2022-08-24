@@ -29,7 +29,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT]()
+[MIT]() || [Patika.dev](https://app.patika.dev/apak/edit/bio) || [Linkedin](https://www.linkedin.com/in/muhammed-apak-9a0261b6/)
 
 
 ![Image](https://picsum.photos/seed/picsum/1080/720)
